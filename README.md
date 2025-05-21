@@ -8,7 +8,7 @@ This is my my Wake Tech GitHub account. This repository will hold assignments fo
 
 I'm very interested in various AI topics, such as computer vision and pathfinding.
 
-I also like reading books, soccer, and piano.
+I also like books, soccer, and piano.
 
 At Wake Tech, in addition to CTI 110, I'm taking various other classes, such as CSC 120. I'm also taking classes in Business Administration, where I'm hoping to learn about how businesses are manged and how different problems are handled.
 
