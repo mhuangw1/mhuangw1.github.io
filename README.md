@@ -18,3 +18,7 @@ At Wake Tech, in addition to CTI 110, I'm taking various other classes, such as 
     - Riddles: TED-Ed has lots of great math and logic puzzles that are really run.
     - Science: TED-Ed also has videos in very interesting science topics, such as zombie fires, self healing concrete, and much more!
 - [Google Slides](https://docs.google.com/presentation/u/0/) has lots of great built-in themes, and can automatically set up layouts for you. I use it in all my presentations and it's a great tool.
+
+# AI Game
+
+For this class, one of the assignments was to have AI generate content based of the answers to a series of 10 questions. In doing this, I ended up with an AI generated video game (although it's not very good). You can view it [here](future_protocol_game_expanded_fixed.html).
