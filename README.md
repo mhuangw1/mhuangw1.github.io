@@ -21,4 +21,4 @@ At Wake Tech, in addition to CTI 110, I'm taking various other classes, such as 
 
 # AI Game
 
-For this class, one of the assignments was to have AI generate content based of the answers to a series of 10 questions. In doing this, I ended up with an AI generated video game (although it's not very good). You can view it [here](future_protocol_game_expanded_fixed.html).
+For this class, one of the assignments was to have AI generate content based off the answers to a series of 10 questions. In doing this, I ended up with an AI generated video game (although it's not very good). You can view it [here](future_protocol_game_expanded_fixed.html).
